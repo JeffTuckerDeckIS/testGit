@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ClassLibrary2;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -17,6 +18,10 @@ namespace MvcApplication1.Controllers
 
         public ActionResult About()
         {
+            Class2 b = new Class2();
+            ViewBag.Bob = b.runme();
+
+
             ViewBag.Message = "Your app description page.";
 
             return View();
