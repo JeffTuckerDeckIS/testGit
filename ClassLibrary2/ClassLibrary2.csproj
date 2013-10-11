@@ -41,6 +41,7 @@
   <ItemGroup>
     <Compile Include="aaa1.cs" />
     <Compile Include="aaa2.cs" />
+    <Compile Include="bubbasmith.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="Class2.cs" />
     <Compile Include="cmdHogan.cs" />
