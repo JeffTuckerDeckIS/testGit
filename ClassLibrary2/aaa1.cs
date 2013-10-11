@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary2
 {
-    class Hogan2
+    class aaa1
     {
-
     }
 }
